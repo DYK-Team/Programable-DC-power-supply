@@ -4,7 +4,7 @@
 //
 // Authors:
 //
-// Egor Shevchenko, Dr. Nikolay Udanov, Prof. Larissa Panina, MISIS, Moscow, https://en.misis.ru/ 
+// Mr. Egor Shevchenko, Dr. Nikolay Udanov, Prof. Larissa Panina, MISIS, Moscow, https://en.misis.ru/ 
 //
 // Dr. Dmitriy Makhnovskiy, DYK team, United Kingdom, https://www.dykteam.com 
 //
